@@ -1,0 +1,20 @@
+body {
+    background-color: #0D1117;
+}
+
+.logo {
+    display: flex;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+
+.text {
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+
+.text a {
+    color: white;
+}
